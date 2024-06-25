@@ -1,4 +1,4 @@
-# 长轻node服务
+# node服务
 
 ## 环境
 - nodejs 18.18.0
@@ -94,20 +94,3 @@ $ yarn run test:cov
 
 
 
-### 上线模版
-
-```
-【上线环境】：生产环境
-【上线名称】：stage-cq-node-api
-【上线内容】：
-【上线分支】：master
-【commit号】：
-【上线域名】：https://cq-nodeapi.cqslim.com
-【应用范围】：内网
-【Gitlab地址】：https://k8s-stage-jenkins.weimiaocaishang.com/job/%E9%95%BF%E8%BD%BB-stage/job/stage-cq-node-api/
-【监控URL地址】：https://cq-nodeapi.cqslim.com
-【自测结果】：正常
-【QA验证】：正常
-【产品验收】：正常
-【是否对其他功能影响】： 无
-```
